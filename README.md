@@ -1,2 +1,8 @@
-# E-commerce-website---Demo
-It is a demo of one e-commerce website how works , i build it into php code and include basic features.
+Reference:
+
+   www.w3school.com  
+   www.stackoveflow.com  
+   www.flipkart.com  
+   www.amazone.com   
+
+more information's are all in documentation --->https://sites.google.com/view/jiya-personal-voice-assistant/home
