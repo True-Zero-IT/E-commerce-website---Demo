@@ -5,4 +5,4 @@ Reference:
    www.flipkart.com  
    www.amazone.com   
 
-more information's are all in documentation --->https://sites.google.com/view/jiya-personal-voice-assistant/home
+more information's are all in documentation --->https://sites.google.com/view/jiya-personal-voice-assistant/manev-mobile
